@@ -1,0 +1,56 @@
+{
+  "results": [
+    {
+      "media": [{
+        "url": "http://handyman.smartersvision.com/mock/slides/media/slide0001.jpg",
+        "thumb": "http://handyman.smartersvision.com/mock/slides/media/slide0001.jpg",
+        "icon": "http://handyman.smartersvision.com/mock/slides/media/slide0001.jpg",
+        "name": "slide0001"
+      }],
+      "_id": "5fedb0e77315210022c2bec3",
+      "title": "Handyman",
+      "description": "Assign a Handyman at Work to Fix the Household",
+      "order": 1,
+      "textColor": "#333333",
+      "createdAt": "2020-12-31T11:07:19.621Z",
+      "updatedAt": "2020-12-31T11:07:19.621Z",
+      "id": "5fedb0e77315210022c2bec3"
+    },
+    {
+      "media": [{
+        "url": "http://handyman.smartersvision.com/mock/slides/media/slide02.jpg",
+        "thumb": "http://handyman.smartersvision.com/mock/slides/media/slide02.jpg",
+        "icon": "http://handyman.smartersvision.com/mock/slides/media/slide02.jpg",
+        "name": "slide02"
+      }],
+      "_id": "5fedb1117315210022c2bec4",
+      "title": "Repair",
+      "description": "Fix the Broken Stuff by Asking for the Technicians",
+      "order": 2,
+      "textColor": "#333333", 
+      "createdAt": "2020-12-31T11:08:01.278Z",
+      "updatedAt": "2020-12-31T11:08:01.278Z",
+      "id": "5fedb1117315210022c2bec4"
+    },
+    {
+      "media": [{
+        "url": "http://handyman.smartersvision.com/mock/slides/media/slide03.jpg",
+        "thumb": "http://handyman.smartersvision.com/mock/slides/media/slide03.jpg",
+        "icon": "http://handyman.smartersvision.com/mock/slides/media/slide03.jpg",
+        "name": "slide03"
+      }],
+      "_id": "5fedb12a7315210022c2bec5",
+      "title": "Cleaners",
+      "description": "Add Hands to Your Cleaning Chores",
+      "order": 3,
+      "textColor": "#333333",
+      "createdAt": "2020-12-31T11:08:26.785Z",
+      "updatedAt": "2020-12-31T11:08:26.785Z",
+      "id": "5fedb12a7315210022c2bec5"
+    }
+  ],
+  "page": 1,
+  "limit": 10,
+  "totalPages": 1,
+  "totalResults": 3
+}

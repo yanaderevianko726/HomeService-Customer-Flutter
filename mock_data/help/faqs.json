@@ -1,0 +1,79 @@
+{
+  "message": "success",
+  "data": [
+    {
+      "id": "5fc39253b1e0edc452cea000",
+      "name": "Providers",
+      "faqs": [
+        {
+          "id": "5fc392533c84e5cee8cb058e",
+          "question": "deserunt incididunt commodo dolore amet?",
+          "answer": "Consequat occaecat anim deserunt aliquip aliquip cupidatat laborum id deserunt occaecat. Culpa magna nulla non id occaecat tempor. Irure occaecat et proident in incididunt ex. Dolore nisi et sint in magna. Mollit labore fugiat nisi deserunt."
+        },
+        {
+          "id": "5fc3925390c97ce81564a456",
+          "question": "ut consequat fugiat consectetur labore?",
+          "answer": "Quis aliqua amet amet enim tempor exercitation sunt sunt exercitation labore officia ullamco. Aute occaecat amet quis sint cupidatat. Laborum dolore officia aliquip officia culpa reprehenderit in aliquip. Duis aliquip elit elit ea eu tempor dolor."
+        },
+        {
+          "id": "5fc392533c558dab24d03953",
+          "question": "aliquip sunt nostrud ad id?",
+          "answer": "Culpa dolor pariatur enim anim mollit ad nostrud fugiat Lorem aliqua officia reprehenderit nostrud aliqua. Anim qui minim dolor laboris Lorem in dolor culpa eiusmod tempor quis. Tempor est quis in culpa officia ipsum occaecat veniam elit reprehenderit minim nostrud Lorem anim. Labore ex adipisicing sint sit minim eu irure quis. Ullamco officia ullamco ea Lorem ex ad anim voluptate sunt nulla duis dolore. Ad sint culpa excepteur voluptate pariatur dolore velit cillum reprehenderit ex ad enim."
+        }
+      ]
+    },
+    {
+      "id": "5fc39253a328a79b37ec7dec",
+      "name": "Booking",
+      "faqs": [
+        {
+          "id": "5fc39253b2bcb837a2eac642",
+          "question": "exercitation consectetur nisi esse nulla?",
+          "answer": "Deserunt ad veniam amet est eiusmod dolor. Nulla nisi officia excepteur commodo sit ipsum laborum duis fugiat aliquip sint. Enim cupidatat dolore amet labore aute eiusmod esse mollit deserunt irure occaecat."
+        },
+        {
+          "id": "5fc39253593fd637db5d26f9",
+          "question": "aliquip in adipisicing pariatur in?",
+          "answer": "Fugiat amet voluptate labore culpa quis enim. Anim elit anim ad adipisicing fugiat pariatur adipisicing esse commodo non. Aliqua cillum eiusmod in est elit duis ex. Proident proident officia et do ut in. Fugiat et tempor deserunt Lorem aute sint."
+        },
+        {
+          "id": "5fc39253ee6bdf854d11e942",
+          "question": "excepteur nulla ad ullamco elit?",
+          "answer": "Ut fugiat aute occaecat duis qui ea commodo. Commodo amet fugiat quis do nisi esse nisi duis enim. Minim qui anim qui sit qui est adipisicing adipisicing laborum. Sint et sit duis irure aute reprehenderit excepteur aliquip culpa consequat id nostrud Lorem. Laborum aliqua culpa tempor eu velit deserunt elit laboris laboris tempor duis pariatur cillum. Amet elit esse officia occaecat nisi commodo fugiat mollit sit reprehenderit."
+        }
+      ]
+    },
+    {
+      "id": "5fc39253234e98d58662e591",
+      "name": "Payment",
+      "faqs": [
+        {
+          "id": "5fc392539f4a3f39e2cd6537",
+          "question": "et sint anim do enim?",
+          "answer": "Reprehenderit pariatur voluptate qui aliqua veniam adipisicing mollit deserunt qui nostrud. Sit nulla est aute pariatur magna ut pariatur dolore fugiat incididunt ullamco do. Esse non proident et exercitation fugiat ex."
+        }
+      ]
+    },
+    {
+      "id": "5fc3925373502d9c562f7107",
+      "name": "Providers",
+      "faqs": [
+        {
+          "id": "5fc392537f0f1fd8a0d89839",
+          "question": "quis est anim laboris est?",
+          "answer": "Ea laboris aute voluptate ipsum dolor magna consectetur non dolor dolore commodo id elit cillum. Pariatur nostrud Lorem veniam Lorem tempor ipsum elit. Excepteur anim labore aute enim enim aute. Sint minim est ullamco dolor voluptate. Adipisicing in magna fugiat ex ea proident pariatur excepteur aute cillum pariatur deserunt duis laborum. Qui minim non aliquip pariatur minim amet dolore laboris deserunt. Exercitation quis fugiat do elit labore do officia cillum fugiat non eu minim velit cillum."
+        },
+        {
+          "id": "5fc392532a8e86e0a0351003",
+          "question": "consectetur fugiat dolore commodo ipsum?",
+          "answer": "Labore non ea id eu mollit nostrud occaecat commodo. Anim reprehenderit quis tempor exercitation exercitation. Sit consequat magna est qui magna dolore est nisi fugiat non velit consectetur eu irure. Laboris dolor laboris officia consequat eu ut laborum ad. Adipisicing ex Lorem aute magna anim. Anim amet dolore quis ad do aliquip deserunt dolore laborum nisi ullamco."
+        },
+        {
+          "id": "5fc39253115f5b1c7db04a0e",
+          "question": "exercitation nostrud in adipisicing sunt?",
+          "answer": "Nisi non commodo reprehenderit proident laborum aliqua est. Et nostrud proident laboris consectetur eu in velit duis magna sunt esse sint est nisi. Occaecat elit elit proident exercitation id do fugiat sit esse voluptate ex irure. Laborum deserunt do officia cupidatat laboris ea qui labore. Sunt sit ad irure eu magna sunt ullamco ullamco. Occaecat aute ad cupidatat aliqua nostrud nulla tempor. Pariatur cillum quis qui ipsum aliqua irure officia."
+        }
+      ]
+    }
+  ]
+}

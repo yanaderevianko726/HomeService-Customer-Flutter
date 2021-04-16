@@ -1,0 +1,194 @@
+{
+  "message":"success",
+  "data": [
+    {
+      "id": "2",
+      "name": "Medical Services",
+      "image" : "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+      "services": [
+        {
+          "title": "Full Service Lawn Care",
+          "min_price": 50.2,
+          "max_price": 153.3,
+          "rate": 4.1,
+          "image": "http://lorempixel.com/200/200/business/6/"
+        },
+        {
+          "title": "Full Service Lawn Care",
+          "min_price": 45.2,
+          "max_price": 150.3,
+          "rate": 2.0,
+          "image": "http://lorempixel.com/200/200/business/5/"
+        }
+      ],
+      "sub_categories": [
+        {
+          "id": "5fb973cb709fc83565112eec",
+          "name": "Car Services",
+          "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+          "color": "#0abde3"
+        },
+        {
+          "id": "5fb973cb52ddcc5a780b0e95",
+          "name": "Laundry",
+          "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+          "color": "#0abde3"
+        }
+      ],
+      "color": "#0abde3"
+    },
+    {
+      "id": "3",
+      "name": "Car Services",
+      "image" : "http://handyman.smartersvision.com/mock/categories/media/car.svg",
+      "services": [
+        {
+          "title": "Full Service Lawn Care",
+          "min_price": 50.2,
+          "max_price": 153.3,
+          "rate": 4.1,
+          "image": "http://lorempixel.com/200/200/business/6/"
+        },
+        {
+          "title": "Full Service Lawn Care",
+          "min_price": 45.2,
+          "max_price": 150.3,
+          "rate": 2.0,
+          "image": "http://lorempixel.com/200/200/business/5/"
+        },
+        {
+          "title": "Full Service Lawn Care",
+          "min_price": 45.2,
+          "max_price": 150.3,
+          "rate": 2.0,
+          "image": "http://lorempixel.com/200/200/business/5/"
+        }
+      ],
+      "sub_categories": [
+        {
+          "id": "5fb973cb709fc83565112eec",
+          "name": "Car Services",
+          "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+          "color": "#0abde3"
+        },
+        {
+          "id": "5fb973cb52ddcc5a780b0e95",
+          "name": "Laundry",
+          "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+          "color": "#0abde3"
+        }
+      ],
+      "color": "#ff9f43"
+    },
+    {
+      "id": "1",
+      "name": "Laundry",
+      "image" : "http://handyman.smartersvision.com/mock/categories/media/laundry.svg",
+      "services": [
+        {
+          "title": "Full Service Lawn Care",
+          "min_price": 50.2,
+          "max_price": 153.3,
+          "rate": 4.1,
+          "image": "http://lorempixel.com/200/200/business/6/"
+        },
+        {
+          "title": "Full Service Lawn Care",
+          "min_price": 45.2,
+          "max_price": 150.3,
+          "rate": 2.0,
+          "image": "http://lorempixel.com/200/200/business/5/"
+        },
+        {
+          "title": "Full Service Lawn Care",
+          "min_price": 45.2,
+          "max_price": 150.3,
+          "rate": 2.0,
+          "image": "http://lorempixel.com/200/200/business/5/"
+        },
+        {
+          "title": "Full Service Lawn Care",
+          "min_price": 45.2,
+          "max_price": 150.3,
+          "rate": 2.0,
+          "image": "http://lorempixel.com/200/200/business/5/"
+        }
+      ],
+      "sub_categories": [
+        {
+          "id": "5fb973cb709fc83565112eec",
+          "name": "Car Services",
+          "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+          "color": "#0abde3"
+        },
+        {
+          "id": "5fb973cb52ddcc5a780b0e95",
+          "name": "Laundry",
+          "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+          "color": "#0abde3"
+        }
+      ],
+      "color": "#ee5253"
+    },
+    {
+      "id": "4",
+      "name": "Barber",
+      "image" : "http://handyman.smartersvision.com/mock/categories/media/haircut.svg",
+      "services": [
+        {
+          "title": "Full Service Lawn Care",
+          "min_price": 50.2,
+          "max_price": 153.3,
+          "rate": 4.1,
+          "image": "http://lorempixel.com/200/200/business/6/"
+        }
+      ],
+      "color": "#10ac84"
+    },
+    {
+      "id": "5",
+      "name": "Washing Dishes",
+      "image" : "http://handyman.smartersvision.com/mock/categories/media/washing_dishes.svg",
+      "services": [
+        {
+          "title": "Full Service Lawn Care",
+          "min_price": 50.2,
+          "max_price": 153.3,
+          "rate": 4.1,
+          "image": "http://lorempixel.com/200/200/business/6/"
+        }
+      ],
+      "color": "#5f27cd"
+    },
+    {
+      "id": "6",
+      "name": "Photography",
+      "image" : "http://handyman.smartersvision.com/mock/categories/media/camera.svg",
+      "services": [
+        {
+          "title": "Full Service Lawn Care",
+          "min_price": 50.2,
+          "max_price": 153.3,
+          "rate": 4.1,
+          "image": "http://lorempixel.com/200/200/business/6/"
+        },
+        {
+          "title": "Full Service Lawn Care",
+          "min_price": 45.2,
+          "max_price": 150.3,
+          "rate": 2.0,
+          "image": "http://lorempixel.com/200/200/business/5/"
+        }
+      ,
+        {
+          "title": "Full Service Lawn Care",
+          "min_price": 45.2,
+          "max_price": 150.3,
+          "rate": 2.0,
+          "image": "http://lorempixel.com/200/200/business/5/"
+        }
+      ],
+      "color": "#ff9f43"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "message": "Success",
+  "data": [
+    {
+      "id": "5fbfbfbe25e0c570fd7802b1",
+      "date_time": "2020-06-12T11:08:51 -01:00",
+      "data": {},
+      "type": "aliqua sunt qui amet cupidatat",
+      "read_at": true,
+      "created_at": "2019-11-06T09:09:30 -01:00"
+    },
+    {
+      "id": "5fbfbfbe3029eaf7c6187eda",
+      "date_time": "2020-02-16T09:04:18 -01:00",
+      "data": {},
+      "type": "aute et enim culpa exercitation",
+      "read_at": null,
+      "created_at": "2019-11-11T04:19:38 -01:00"
+    },
+    {
+      "id": "5fbfbfbe556b8ee767fb2d7e",
+      "date_time": "2020-03-02T05:33:25 -01:00",
+      "data": {},
+      "type": "consectetur et in ex id",
+      "read_at": true,
+      "created_at": "2019-03-18T03:38:21 -01:00"
+    },
+    {
+      "id": "5fbfbfbe5546649703979124",
+      "date_time": "2019-07-31T08:48:10 -01:00",
+      "data": {},
+      "type": "mollit eiusmod sint anim eu",
+      "read_at": null,
+      "created_at": "2020-02-26T03:34:52 -01:00"
+    },
+    {
+      "id": "5fbfbfbe7a5dccecf60c8cdb",
+      "date_time": "2019-09-20T05:58:59 -01:00",
+      "data": {},
+      "type": "anim do occaecat fugiat voluptate",
+      "read_at": true,
+      "created_at": "2020-07-21T03:17:04 -01:00"
+    },
+    {
+      "id": "5fbfbfbe634670bb4bfa6cee",
+      "date_time": "2020-03-17T01:23:30 -01:00",
+      "data": {},
+      "type": "in officia nulla consectetur aliquip",
+      "read_at": true,
+      "created_at": "2019-02-09T06:11:06 -01:00"
+    },
+    {
+      "id": "5fbfbfbe458a3a811969bc2b",
+      "date_time": "2020-05-11T02:59:00 -01:00",
+      "data": {},
+      "type": "incididunt in eiusmod qui cupidatat",
+      "read_at": true,
+      "created_at": "2019-07-27T10:54:54 -01:00"
+    }
+  ]
+}

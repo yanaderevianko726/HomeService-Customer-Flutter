@@ -1,0 +1,116 @@
+{
+  "results": [
+    {
+      "media": [
+        {
+          "url": "http://handyman.smartersvision.com/mock/categories/media/car.svg",
+          "name": "car.svg"
+        }
+      ],
+      "color": "#ff9f43",
+      "subCategories": [],
+      "_id": "5fedff946fc7903fe4cc9604",
+      "name": "Car Services",
+      "id": "5fedff946fc7903fe4cc9604"
+    },
+    {
+      "media": [
+        {
+          "url": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+          "name": "nurse.svg"
+        }
+      ],
+      "color": "#0abde3",
+      "subCategories": [],
+      "_id": "5fedffa56fc7903fe4cc9605",
+      "name": "Medical Services",
+      "id": "5fedffa56fc7903fe4cc9605"
+    },
+    {
+      "media": [
+        {
+          "url": "http://handyman.smartersvision.com/mock/categories/media/laundry.svg",
+          "name": "laundry"
+        }
+      ],
+      "color": "#ee5253",
+      "subCategories": [],
+      "_id": "5fee22a52eaa524d6458c84d",
+      "name": "Laundry Service",
+      "id": "5fee22a52eaa524d6458c84d"
+    },
+    {
+      "media": [
+        {
+          "url": "http://handyman.smartersvision.com/mock/categories/media/haircut.svg",
+          "name": "haircut"
+        }
+      ],
+      "color": "#10ac84",
+      "subCategories": [
+        {
+          "media": [
+            {
+              "url": "http://handyman.smartersvision.com/mock/categories/media/car.svg",
+              "name": "car.svg"
+            }
+          ],
+          "color": "#ff9f43",
+          "subCategories": [],
+          "_id": "5fedff946fc7903fe4cc9604",
+          "name": "Car Services",
+          "id": "5fedff946fc7903fe4cc9604"
+        },
+        {
+          "media": [
+            {
+              "url": "http://handyman.smartersvision.com/mock/categories/media/haircut.svg",
+              "name": "haircut"
+            }
+          ],
+          "color": "#10ac84",
+          "subCategories": [
+            "5fedff946fc7903fe4cc9604",
+            "5fee22c42eaa524d6458c84e"
+          ],
+          "_id": "5fee22c42eaa524d6458c84e",
+          "name": "Barber",
+          "id": "5fee22c42eaa524d6458c84e"
+        }
+      ],
+      "_id": "5fee22c42eaa524d6458c84e",
+      "name": "Barber",
+      "id": "5fee22c42eaa524d6458c84e"
+    },
+    {
+      "media": [
+        {
+          "url": "http://handyman.smartersvision.com/mock/categories/media/washing_dishes.svg",
+          "name": "washing_dishes"
+        }
+      ],
+      "color": "#5f27cd",
+      "subCategories": [],
+      "_id": "5fee22e32eaa524d6458c84f",
+      "name": "Washing Dishes",
+      "id": "5fee22e32eaa524d6458c84f"
+    },
+    {
+      "media": [
+        {
+          "url": "http://handyman.smartersvision.com/mock/categories/media/camera.svg",
+          "name": "camera"
+        }
+      ],
+      "color": "#ff9f43",
+      "subCategories": [],
+      "_id": "5fee230a2eaa524d6458c850",
+      "name": "Photography",
+      "id": "5fee230a2eaa524d6458c850"
+    }
+  ],
+  "page": 1,
+  "limit": 10,
+  "totalPages": 1,
+  "totalResults": 6
+}

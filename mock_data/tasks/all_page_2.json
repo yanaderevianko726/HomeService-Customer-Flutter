@@ -1,0 +1,295 @@
+{
+  "message": "Success",
+  "data": [
+    {
+      "id": "5fbbf55c52e0319c2c2f332c",
+      "date_time": "2020-03-19T10:05:04 -01:00",
+      "description": "nostrud excepteur ea duis veniam",
+      "status": "pariatur",
+      "progress": "Rejected",
+      "total": 130.71,
+      "rate": 3.49,
+      "tax": 13.21,
+      "payment_method": {
+        "id": "5fbbf55ccfd936bfe653c8e5",
+        "name": "MasterCard"
+      },
+      "e_service": {
+        "id": "5fbbf55c189ba46780c5b740",
+        "title": "Insurity Service",
+        "description": "Laboris nostrud labore et commodo labore dolore ut labore. Est ex quis magna sunt velit culpa cillum deserunt anim consectetur est nulla aliquip. Tempor in ea sint in. Officia do adipisicing Lorem ipsum.\r\n",
+        "min_price": 11.3,
+        "max_price": 111.56,
+        "pricing": "per hour",
+        "rate": 4.39,
+        "total_reviews": 22,
+        "duration": 40.7,
+        "categories": [
+          {
+            "id": "5fbbf55c352b02e974112827",
+            "name": "Car Services",
+            "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+            "color": "#0abde3"
+          },
+          {
+            "id": "5fbbf55c376063940aaec959",
+            "name": "Laundry",
+            "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+            "color": "#0abde3"
+          }
+        ],
+        "sub_categories": [
+          {
+            "id": "5fbbf55cfc45620f04c1e4be",
+            "name": "Car Services",
+            "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+            "color": "#0abde3"
+          },
+          {
+            "id": "5fbbf55c4751034ecb950bad",
+            "name": "Medical Services",
+            "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+            "color": "#0abde3"
+          },
+          {
+            "id": "5fbbf55c32ad151de7a89a5b",
+            "name": "Car Services",
+            "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+            "color": "#0abde3"
+          }
+        ],
+        "media": [
+          {
+            "id": "5fbbf55c2f5fa2330e793d08",
+            "url": "http://lorempixel.com/400/400/business/5/",
+            "thumb": "http://lorempixel.com/200/200/business/4/",
+            "icon": "http://lorempixel.com/100/100/business/3/"
+          },
+          {
+            "id": "5fbbf55c31f26691a673b488",
+            "url": "http://lorempixel.com/400/400/business/1/",
+            "thumb": "http://lorempixel.com/200/200/business/5/",
+            "icon": "http://lorempixel.com/100/100/business/5/"
+          }
+        ],
+        "e_provider": {
+          "id": "5fbbf55cb2808c43259d96ab",
+          "about": "Magna ea officia do amet reprehenderit. Lorem ullamco commodo adipisicing proident elit aliquip ad elit et. Nostrud qui cupidatat in enim. Voluptate enim aute sit proident commodo commodo veniam dolor dolor laborum veniam incididunt. Quis labore nisi magna amet exercitation veniam. Incididunt et cupidatat laboris in.\r\n",
+          "available": false,
+          "experience": "Nostrud minim dolore minim nulla sint consectetur mollit tempor. Voluptate ex do non officia excepteur in magna. Ea non ut mollit incididunt laborum consequat aute id mollit enim aliqua consequat do enim. Incididunt do ut non sint. Sint proident sit culpa est et sint veniam. Qui aliqua proident sunt ipsum qui pariatur labore.\r\n",
+          "media": [
+            {
+              "id": "5fbbf55c87eacca1809308e4",
+              "url": "http://lorempixel.com/400/400/business/5/",
+              "thumb": "http://lorempixel.com/200/200/business/5/",
+              "icon": "http://lorempixel.com/100/100/business/5/"
+            },
+            {
+              "id": "5fbbf55cb8fa7356326a629c",
+              "url": "http://lorempixel.com/400/400/business/5/",
+              "thumb": "http://lorempixel.com/200/200/business/1/",
+              "icon": "http://lorempixel.com/100/100/business/3/"
+            },
+            {
+              "id": "5fbbf55c97aa8d5444b3a1d3",
+              "url": "http://lorempixel.com/400/400/business/3/",
+              "thumb": "http://lorempixel.com/200/200/business/5/",
+              "icon": "http://lorempixel.com/100/100/business/1/"
+            }
+          ],
+          "name": "Simon Taylor",
+          "phone": "+1 (824) 421-3072",
+          "address": "619 Jamaica Avenue, Westerville, Vermont, 7161",
+          "rate": 1.31,
+          "reviews": [
+            {
+              "id": "5fbbf55c58949aa9030df8f6",
+              "rate": 2.86,
+              "review": "Tempor irure esse deserunt cillum fugiat culpa adipisicing do anim elit elit. Qui culpa labore do ipsum aute culpa commodo pariatur deserunt cupidatat qui quis nostrud. Quis sint ad occaecat elit elit voluptate sit ea nostrud consectetur duis ipsum. Voluptate Lorem officia sint eu aliqua excepteur ex in mollit duis.\r\n",
+              "datetime": "2020-03-11T02:52:04 -01:00"
+            },
+            {
+              "id": "5fbbf55c4d9ddf0d525cef09",
+              "rate": 2.56,
+              "review": "Excepteur nostrud incididunt enim pariatur ipsum deserunt nulla consectetur ullamco. Velit anim elit et eu enim dolor pariatur nostrud ex fugiat occaecat. Nulla excepteur ea aliqua laborum amet non dolor laboris irure deserunt amet cupidatat. Adipisicing sit officia eiusmod sint quis sit id dolore esse fugiat irure non. Et voluptate voluptate eiusmod enim sit ipsum nisi pariatur ad velit laboris ipsum eu ea. Cillum ea velit ad adipisicing. Anim duis ea do velit irure magna est dolor ipsum id.\r\n",
+              "datetime": "2020-09-17T10:53:05 -01:00"
+            },
+            {
+              "id": "5fbbf55c9b056aa69d6475cf",
+              "rate": 1.67,
+              "review": "Excepteur consectetur aliquip ex laborum eiusmod Lorem labore qui esse velit ex nostrud officia proident. Id officia ea minim velit labore est cupidatat nulla pariatur. Dolore ipsum reprehenderit veniam labore aliquip duis ut. Excepteur laborum consequat est ipsum et nostrud esse commodo cillum sit ullamco voluptate. Minim adipisicing Lorem ex non aliquip. Non laborum sunt consequat aliqua. Adipisicing adipisicing incididunt aute excepteur incididunt eiusmod.\r\n",
+              "datetime": "2020-05-06T10:20:47 -01:00"
+            }
+          ],
+          "total_reviews": 1558,
+          "verified": true,
+          "tasks_in_progress": 3
+        }
+      },
+      "address": {
+        "id": "5fbbf55cf93ff2b3d10460dd",
+        "address": "999 Ferry Place, Lutsen, Colorado, 9416"
+      },
+      "user":   {
+        "id": "5fba3ad5ec959009d73199a4",
+        "name": "Hess Barker",
+        "email": "andersonmoses@portaline.com",
+        "password": "123456",
+        "apiToken": "5fba3ad5561add7643207be9",
+        "deviceToken": "5fba3ad505b5b1361f2379da",
+        "phone": "+1 (989) 438-2388",
+        "verifiedPhone": false,
+        "verificationId": "5fba3ad533fc7126deb0e2f6",
+        "address": "607 Victor Road, Libertytown, Maine, 3326",
+        "bio": "Voluptate eu laborum enim cillum amet eiusmod amet aute duis. Occaecat pariatur Lorem officia proident ea quis pariatur irure ea duis excepteur id officia officia. Laboris sunt veniam consectetur anim veniam ipsum fugiat ad cupidatat culpa laborum exercitation incididunt.\r\n",
+        "media": [
+          {
+            "id": "5fba3ad5614ca1654e2d7971",
+            "url": "http://lorempixel.com/400/400/business/1/",
+            "thumb": "http://lorempixel.com/200/200/business/3/",
+            "icon": "http://lorempixel.com/100/100/business/5/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fbbf55c2a0549c3e3062521",
+      "date_time": "2019-05-14T02:25:21 -01:00",
+      "description": "esse est consequat sint quis",
+      "status": "esse",
+      "progress": "Accepted",
+      "total": 116.56,
+      "rate": 2.21,
+      "tax": 16.77,
+      "payment_method": {
+        "id": "5fbbf55cc1a6bdde2e18c462",
+        "name": "VisaCard"
+      },
+      "e_service": {
+        "id": "5fbbf55c404f3ae902bb5347",
+        "title": "Collaire Service",
+        "description": "Commodo commodo officia aliquip aute mollit id pariatur sit est. Laborum Lorem et culpa ad aliquip ullamco. Esse nisi labore tempor magna reprehenderit cupidatat ipsum sit do quis do nulla laboris. Cillum aliquip cillum reprehenderit minim irure veniam nulla amet ut.\r\n",
+        "min_price": 14.96,
+        "max_price": 40.21,
+        "pricing": "fixed",
+        "rate": 3.63,
+        "total_reviews": 36,
+        "duration": 246.95,
+        "categories": [
+          {
+            "id": "5fbbf55c51d85a3fb0d586d3",
+            "name": "Car Services",
+            "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+            "color": "#0abde3"
+          }
+        ],
+        "sub_categories": [
+          {
+            "id": "5fbbf55cac5e05ec8e48a8fe",
+            "name": "Laundry",
+            "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+            "color": "#0abde3"
+          }
+        ],
+        "media": [
+          {
+            "id": "5fbbf55cd6eba62cc1be4857",
+            "url": "http://lorempixel.com/400/400/business/3/",
+            "thumb": "http://lorempixel.com/200/200/business/4/",
+            "icon": "http://lorempixel.com/100/100/business/2/"
+          },
+          {
+            "id": "5fbbf55c21be050059aa342e",
+            "url": "http://lorempixel.com/400/400/business/5/",
+            "thumb": "http://lorempixel.com/200/200/business/4/",
+            "icon": "http://lorempixel.com/100/100/business/2/"
+          },
+          {
+            "id": "5fbbf55c5a281c2b505f494d",
+            "url": "http://lorempixel.com/400/400/business/1/",
+            "thumb": "http://lorempixel.com/200/200/business/3/",
+            "icon": "http://lorempixel.com/100/100/business/2/"
+          },
+          {
+            "id": "5fbbf55cee3932483286bb4c",
+            "url": "http://lorempixel.com/400/400/business/2/",
+            "thumb": "http://lorempixel.com/200/200/business/1/",
+            "icon": "http://lorempixel.com/100/100/business/5/"
+          },
+          {
+            "id": "5fbbf55c2223eb09af8a7b3a",
+            "url": "http://lorempixel.com/400/400/business/3/",
+            "thumb": "http://lorempixel.com/200/200/business/4/",
+            "icon": "http://lorempixel.com/100/100/business/1/"
+          }
+        ],
+        "e_provider": {
+          "id": "5fbbf55c34ead7f29f4c2fb7",
+          "about": "Eiusmod est id incididunt nisi ex. Elit dolor eiusmod elit eiusmod nulla ut et quis ea occaecat. Duis id ea exercitation occaecat velit commodo magna amet reprehenderit ut eiusmod non ea consectetur. Veniam ut cupidatat aliqua ea. Cillum ex ex eu pariatur ea deserunt velit exercitation. Eiusmod sint duis voluptate mollit duis qui tempor laboris tempor cupidatat sint. Non nostrud nostrud ex enim elit ex duis sit elit.\r\n",
+          "available": false,
+          "experience": "Sunt quis do aliquip ullamco mollit in fugiat. Cillum exercitation culpa sit mollit minim quis eiusmod dolore amet. Esse excepteur nisi velit voluptate voluptate voluptate officia nulla nulla. Exercitation voluptate ea ullamco id exercitation magna mollit consequat fugiat duis voluptate duis commodo. Est ullamco cillum sint mollit cupidatat in ut laboris ullamco aliquip aute id sint ipsum. Id aliqua nisi Lorem voluptate dolore labore in commodo cupidatat exercitation Lorem aliqua nostrud. Exercitation reprehenderit eiusmod commodo exercitation labore officia labore consectetur aute ex.\r\n",
+          "media": [
+            {
+              "id": "5fbbf55c21ec2ce78c216d1d",
+              "url": "http://lorempixel.com/400/400/business/1/",
+              "thumb": "http://lorempixel.com/200/200/business/2/",
+              "icon": "http://lorempixel.com/100/100/business/1/"
+            },
+            {
+              "id": "5fbbf55c38a88704f36592d9",
+              "url": "http://lorempixel.com/400/400/business/1/",
+              "thumb": "http://lorempixel.com/200/200/business/2/",
+              "icon": "http://lorempixel.com/100/100/business/2/"
+            }
+          ],
+          "name": "Kathy Henderson",
+          "phone": "+1 (957) 534-3346",
+          "address": "852 Whitney Avenue, Collins, Delaware, 7348",
+          "rate": 3.84,
+          "reviews": [
+            {
+              "id": "5fbbf55c32ea0c00e4d76a81",
+              "rate": 4.64,
+              "review": "Qui ut velit id non mollit irure qui occaecat cillum amet in enim. Minim sunt pariatur non occaecat commodo ipsum sit. Deserunt laboris in ad ullamco ea enim et amet commodo consectetur nostrud est. Quis dolore esse eu quis excepteur commodo adipisicing. Magna exercitation irure laborum proident esse aliquip laboris. Commodo aliqua duis et pariatur id laborum culpa labore veniam eu. Enim elit ea minim est incididunt proident et in deserunt ex voluptate occaecat.\r\n",
+              "datetime": "2020-05-22T03:16:07 -01:00"
+            },
+            {
+              "id": "5fbbf55cbe8999b7ba6c7c37",
+              "rate": 3.85,
+              "review": "Ipsum ipsum non ea cillum dolor officia excepteur consequat reprehenderit. Labore ullamco sint id exercitation. Enim officia pariatur commodo enim ad laboris velit commodo nostrud elit amet enim Lorem. Culpa reprehenderit reprehenderit nisi sit amet ex nisi elit adipisicing cupidatat quis tempor amet.\r\n",
+              "datetime": "2019-12-26T05:10:16 -01:00"
+            }
+          ],
+          "total_reviews": 1142,
+          "verified": true,
+          "tasks_in_progress": 0
+        }
+      },
+      "address": {
+        "id": "5fbbf55c6007a1825d7ccf26",
+        "address": "147 Guernsey Street, Spelter, West Virginia, 7235"
+      },
+      "user":   {
+        "id": "5fba3ad5ec959009d73199a4",
+        "name": "Hess Barker",
+        "email": "andersonmoses@portaline.com",
+        "password": "123456",
+        "apiToken": "5fba3ad5561add7643207be9",
+        "deviceToken": "5fba3ad505b5b1361f2379da",
+        "phone": "+1 (989) 438-2388",
+        "verifiedPhone": false,
+        "verificationId": "5fba3ad533fc7126deb0e2f6",
+        "address": "607 Victor Road, Libertytown, Maine, 3326",
+        "bio": "Voluptate eu laborum enim cillum amet eiusmod amet aute duis. Occaecat pariatur Lorem officia proident ea quis pariatur irure ea duis excepteur id officia officia. Laboris sunt veniam consectetur anim veniam ipsum fugiat ad cupidatat culpa laborum exercitation incididunt.\r\n",
+        "media": [
+          {
+            "id": "5fba3ad5614ca1654e2d7971",
+            "url": "http://lorempixel.com/400/400/business/1/",
+            "thumb": "http://lorempixel.com/200/200/business/3/",
+            "icon": "http://lorempixel.com/100/100/business/5/"
+          }
+        ]
+      }
+    }
+  ]
+}

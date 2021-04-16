@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Mali/home_services-customer/build/android_intent/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/king/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Mali/home_services-customer/build/android_intent/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/king/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Mali/home_services-customer/build/android_intent/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/king/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Mali/home_services-customer/build/android_intent/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/king/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/drawable/notification_bg_low.xml"
+    }
+]

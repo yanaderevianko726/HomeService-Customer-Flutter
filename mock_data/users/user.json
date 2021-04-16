@@ -1,0 +1,25 @@
+{
+  "message": "Success",
+  "data":
+  {
+    "id": "5fba3ad5ec959009d73199a4",
+    "name": "Hess Barker",
+    "email": "andersonmoses@portaline.com",
+    "password": "123456",
+    "apiToken": "5fba3ad5561add7643207be9",
+    "deviceToken": "5fba3ad505b5b1361f2379da",
+    "phone": "+1 (989) 438-2388",
+    "verifiedPhone": false,
+    "verificationId": "5fba3ad533fc7126deb0e2f6",
+    "address": "607 Victor Road, Libertytown, Maine, 3326",
+    "bio": "Voluptate eu laborum enim cillum amet eiusmod amet aute duis. Occaecat pariatur Lorem officia proident ea quis pariatur irure ea duis excepteur id officia officia. Laboris sunt veniam consectetur anim veniam ipsum fugiat ad cupidatat culpa laborum exercitation incididunt.\r\n",
+    "media": [
+      {
+        "id": "5fba3ad5614ca1654e2d7971",
+        "url": "http://lorempixel.com/400/400/business/1/",
+        "thumb": "http://lorempixel.com/200/200/business/3/",
+        "icon": "http://lorempixel.com/100/100/business/5/"
+      }
+    ]
+  }
+}

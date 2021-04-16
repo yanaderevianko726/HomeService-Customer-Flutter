@@ -1,0 +1,18 @@
+{
+  "id": "",
+  "time": "04:30 PM, Aug 14 2020",
+  "type": "Commercial",
+  "period":"Once a month",
+  "description":"Moving, trimming & edging, Fertilizing and overseeding",
+  "status":"Ongoing",
+  "progress":"Accepted",
+  "total":253.00,
+  "category":  {
+    "name": "Full Service Lawn Care",
+    "image": "https://public-assets.envato-static.com/assets/common/icons-buttons/default-user-2962fd43ee315eafee8bfc08f02fee84687beb0499de44e5ab2873399944b0fe.jpg"
+  },
+  "company_service":  {
+    "title": "Full Service Lawn Care",
+    "image": "https://public-assets.envato-static.com/assets/common/icons-buttons/default-user-2962fd43ee315eafee8bfc08f02fee84687beb0499de44e5ab2873399944b0fe.jpg"
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "message": "success",
+  "data":[
+    {
+      "id": "5fb973cbca79991a4c98eb42",
+      "title": "Zentry Service",
+      "description": "Est labore adipisicing in exercitation. Aute dolor et nisi incididunt sunt occaecat. Laborum voluptate laborum nisi non velit ea velit dolore anim id reprehenderit aliqua. Irure labore labore anim do deserunt. Qui eu non laboris et minim quis commodo eu quis labore irure consectetur eu. Do cillum exercitation cupidatat irure duis anim incididunt sunt amet incididunt sunt et. In Lorem adipisicing sit excepteur.\r\n",
+      "min_price": 17.6,
+      "max_price": 97.42,
+      "pricing": "per hour",
+      "rate": 1.6,
+      "total_reviews": 100,
+      "duration": 240.43,
+      "categories": [
+        {
+          "id": "5fb973cb74bb878492892c6c",
+          "name": "Medical Services",
+          "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+          "color": "#0abde3"
+        },
+        {
+          "id": "5fb973cb5d86e183d5146f6d",
+          "name": "Laundry",
+          "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+          "color": "#0abde3"
+        }
+      ],
+      "sub_categories": [
+        {
+          "id": "5fb973cbcde285454f0e9cb7",
+          "name": "Laundry",
+          "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+          "color": "#0abde3"
+        }
+      ],
+      "media": [
+        {
+          "id": "5fb973cb51a46e81a8d45ffb",
+          "url": "http://lorempixel.com/400/400/business/3/",
+          "thumb": "http://lorempixel.com/200/200/business/2/",
+          "icon": "http://lorempixel.com/100/100/business/1/"
+        },
+        {
+          "id": "5fb973cb2460251dea22d420",
+          "url": "http://lorempixel.com/400/400/business/4/",
+          "thumb": "http://lorempixel.com/200/200/business/5/",
+          "icon": "http://lorempixel.com/100/100/business/1/"
+        },
+        {
+          "id": "5fb973cb6870d587caaa78a2",
+          "url": "http://lorempixel.com/400/400/business/4/",
+          "thumb": "http://lorempixel.com/200/200/business/5/",
+          "icon": "http://lorempixel.com/100/100/business/5/"
+        },
+        {
+          "id": "5fb973cba5343fc92d918a11",
+          "url": "http://lorempixel.com/400/400/business/4/",
+          "thumb": "http://lorempixel.com/200/200/business/5/",
+          "icon": "http://lorempixel.com/100/100/business/1/"
+        }
+      ],
+      "e_provider": {
+        "id": "5fb973cb3a98067667bea267",
+        "about": "Velit anim quis aliquip amet velit commodo tempor eiusmod ea aliqua elit. Amet ea id id adipisicing culpa in incididunt qui commodo. Magna id ex fugiat ex. Nostrud excepteur ipsum occaecat consectetur nulla consequat cillum Lorem magna duis. Mollit ex sunt mollit occaecat est eiusmod dolor. Irure non cillum nisi exercitation occaecat eu ad non ea laboris ullamco fugiat. Reprehenderit cupidatat deserunt laboris laboris.\r\n",
+        "available": false,
+        "experience": "Elit aliquip dolore ipsum anim. Amet nostrud aute officia fugiat do amet. Ea ad in Lorem veniam. Enim officia esse magna eiusmod ad dolore qui. Aliquip consectetur magna occaecat nisi cupidatat ut ipsum mollit nulla. Consequat ipsum elit aliqua cillum et adipisicing aute duis sunt. Id irure sunt commodo Lorem commodo enim incididunt elit quis consequat ullamco ex.\r\n",
+        "media": [
+          {
+            "id": "5fb973cb65803da5adfb1239",
+            "url": "http://lorempixel.com/400/400/business/5/",
+            "thumb": "http://lorempixel.com/200/200/business/4/",
+            "icon": "http://lorempixel.com/100/100/business/4/"
+          },
+          {
+            "id": "5fb973cb0b92feb5a577d62d",
+            "url": "http://lorempixel.com/400/400/business/3/",
+            "thumb": "http://lorempixel.com/200/200/business/1/",
+            "icon": "http://lorempixel.com/100/100/business/3/"
+          }
+        ],
+        "name": "Strong Alvarez",
+        "phone": "+1 (881) 566-2321",
+        "address": "206 Railroad Avenue, Eastvale, New Hampshire, 564",
+        "rate": 1.63,
+        "reviews": [
+          {
+            "id": "5fb973cb10d71006367fdff5",
+            "rate": 1.01,
+            "review": "Eiusmod dolore commodo occaecat aute est elit nisi minim incididunt est non occaecat. Cillum do eiusmod adipisicing laboris amet magna mollit anim magna. Ipsum nulla velit ut amet id adipisicing cillum mollit ea incididunt magna officia. Lorem labore ea id laboris nostrud eiusmod et. Sint sit anim labore laboris sint cillum quis. Anim est consequat enim deserunt magna veniam pariatur veniam quis.\r\n",
+            "datetime": "2019-08-26T07:20:38 -01:00"
+          },
+          {
+            "id": "5fb973cbf23ae4aa138ea3b7",
+            "rate": 1.56,
+            "review": "Nisi veniam est culpa nostrud sit sint. Amet non eiusmod fugiat sint consectetur id consectetur aliquip sit sunt. Laborum reprehenderit tempor eiusmod sit laborum commodo nulla.\r\n",
+            "datetime": "2019-09-06T04:20:04 -01:00"
+          },
+          {
+            "id": "5fb973cb4f3c6977ef1cdc15",
+            "rate": 4.32,
+            "review": "Dolor id consectetur culpa culpa in duis. Minim amet est sunt id sint laboris labore aliqua aute ea et quis. Et dolore tempor incididunt Lorem consequat reprehenderit minim. Veniam duis velit excepteur sint ullamco deserunt amet. Occaecat aute consequat ex ea amet. Sint deserunt et incididunt Lorem enim nostrud dolore. Enim dolor tempor pariatur aliqua aliqua minim eiusmod Lorem occaecat aliqua.\r\n",
+            "datetime": "2020-03-15T04:12:35 -01:00"
+          }
+        ],
+        "total_reviews": 1203,
+        "verified": false,
+        "tasks_in_progress": 0
+      },
+      "e_company": {
+        "id": "5fb973cbd4f1774bd6ac1473",
+        "about": "Aute dolore excepteur excepteur consequat sit enim elit aliquip amet aliquip cillum officia dolor. Aliquip excepteur est magna eu sunt. Mollit Lorem duis quis sunt dolor voluptate Lorem veniam ex non laborum excepteur est incididunt. Ullamco aliqua non laboris sunt. Laboris nostrud velit magna pariatur officia aute non. Anim id laboris voluptate sunt occaecat anim ipsum ipsum.\r\n",
+        "available": true,
+        "experience": "Est exercitation eu incididunt irure nulla irure. Cupidatat pariatur eu in incididunt. Ex quis labore deserunt ex dolore ex consectetur mollit proident consectetur nisi. Ipsum incididunt cupidatat sit ipsum ipsum consequat adipisicing aliqua dolore veniam dolor tempor minim enim. Anim dolor magna sunt ea sint dolor deserunt amet reprehenderit nulla aliqua ipsum voluptate.\r\n",
+        "media": [
+          {
+            "url": "http://lorempixel.com/400/400/business/4/",
+            "thumb": "http://lorempixel.com/200/200/business/5/",
+            "icon": "http://lorempixel.com/100/100/business/3/"
+          },
+          {
+            "url": "http://lorempixel.com/400/400/business/3/",
+            "thumb": "http://lorempixel.com/200/200/business/5/",
+            "icon": "http://lorempixel.com/100/100/business/2/"
+          }
+        ],
+        "name": "Accusage",
+        "phone": "+1 (891) 463-3554",
+        "address": "709 Reeve Place, Vicksburg, Kansas, 8239",
+        "rate": 4.85,
+        "reviews": [
+          {
+            "id": "5fb973cbf27764140980b948",
+            "rate": 1.67,
+            "review": "Laborum sint velit ex est ea officia Lorem mollit magna reprehenderit dolore nostrud labore irure. Occaecat esse deserunt aliqua deserunt. Occaecat id excepteur deserunt nulla magna occaecat nulla nostrud non reprehenderit deserunt adipisicing enim nulla. Est mollit occaecat deserunt ex aliquip non dolore aute ex occaecat cillum dolore. Commodo sint culpa duis in est voluptate commodo ad officia ea incididunt do adipisicing.\r\n",
+            "datetime": "2020-03-20T04:22:09 -01:00"
+          },
+          {
+            "id": "5fb973cba11651cedae06bbf",
+            "rate": 2.48,
+            "review": "Commodo est adipisicing dolor qui sit. Mollit officia velit laborum sunt ad sunt laboris ex excepteur amet reprehenderit dolore. Laborum nostrud ullamco velit magna aliquip enim sint. Irure laborum pariatur officia deserunt quis anim. Minim excepteur elit ipsum nostrud ex enim nisi mollit sint aliqua ipsum non exercitation.\r\n",
+            "datetime": "2019-07-06T07:08:10 -01:00"
+          },
+          {
+            "id": "5fb973cb6723bed62e46affc",
+            "rate": 4.7,
+            "review": "Consequat excepteur ex amet non eu eu. Culpa mollit tempor tempor velit ut magna Lorem labore adipisicing amet esse excepteur. Non esse quis irure culpa anim consequat culpa esse labore exercitation ullamco. Voluptate est est laborum proident qui eiusmod aliquip id ut adipisicing exercitation nisi incididunt ea.\r\n",
+            "datetime": "2019-06-22T11:07:51 -01:00"
+          },
+          {
+            "id": "5fb973cbd6bf3c1c1d86811f",
+            "rate": 2.06,
+            "review": "Nisi ad Lorem esse quis do consequat exercitation. Do culpa voluptate incididunt sint occaecat eiusmod commodo cupidatat mollit. Occaecat fugiat eiusmod laborum nulla fugiat. Proident anim sunt laborum exercitation excepteur nostrud veniam commodo ut et excepteur tempor.\r\n",
+            "datetime": "2020-05-14T08:25:25 -01:00"
+          }
+        ],
+        "total_reviews": 85,
+        "verified": false,
+        "tasks_in_progress": 0
+      }
+    },
+    {
+      "id": "5fb973cb19f74398255090d8",
+      "title": "Xeronk Service",
+      "description": "Culpa laboris aliqua occaecat eu cupidatat sunt adipisicing. Consequat exercitation ipsum occaecat nostrud ex et do deserunt do ex nostrud tempor cillum. Irure et reprehenderit sunt Lorem enim irure minim nulla cillum eiusmod ullamco pariatur sunt.\r\n",
+      "min_price": 6.56,
+      "max_price": 160.75,
+      "pricing": "fixed",
+      "rate": 3.22,
+      "total_reviews": 5,
+      "duration": 56.38,
+      "categories": [
+        {
+          "id": "5fb973cb89c9ba84413bb611",
+          "name": "Laundry",
+          "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+          "color": "#0abde3"
+        }
+      ],
+      "sub_categories": [
+        {
+          "id": "5fb973cbbc68ea5f89a52adf",
+          "name": "Car Services",
+          "image": "http://handyman.smartersvision.com/mock/categories/media/nurse.svg",
+          "color": "#0abde3"
+        }
+      ],
+      "media": [
+        {
+          "id": "5fb973cba436a37010cefda9",
+          "url": "http://lorempixel.com/400/400/business/2/",
+          "thumb": "http://lorempixel.com/200/200/business/4/",
+          "icon": "http://lorempixel.com/100/100/business/5/"
+        },
+        {
+          "id": "5fb973cbdc111b656d9b71c5",
+          "url": "http://lorempixel.com/400/400/business/1/",
+          "thumb": "http://lorempixel.com/200/200/business/3/",
+          "icon": "http://lorempixel.com/100/100/business/3/"
+        },
+        {
+          "id": "5fb973cb6779633f20949244",
+          "url": "http://lorempixel.com/400/400/business/2/",
+          "thumb": "http://lorempixel.com/200/200/business/5/",
+          "icon": "http://lorempixel.com/100/100/business/5/"
+        },
+        {
+          "id": "5fb973cb9322450def209ba7",
+          "url": "http://lorempixel.com/400/400/business/4/",
+          "thumb": "http://lorempixel.com/200/200/business/5/",
+          "icon": "http://lorempixel.com/100/100/business/4/"
+        },
+        {
+          "id": "5fb973cb7a138fb01ec2a7a6",
+          "url": "http://lorempixel.com/400/400/business/3/",
+          "thumb": "http://lorempixel.com/200/200/business/3/",
+          "icon": "http://lorempixel.com/100/100/business/5/"
+        }
+      ],
+      "e_provider": {
+        "id": "5fb973cbdf41f2362413057a",
+        "about": "Aliqua ullamco ex culpa anim labore nulla sunt id tempor in reprehenderit nostrud ad. Velit sunt incididunt veniam eiusmod excepteur. Aute est et cupidatat eiusmod. Irure sit mollit ipsum nostrud deserunt deserunt. Minim Lorem sit id laborum occaecat fugiat laborum Lorem enim ut. Cupidatat elit reprehenderit amet do amet esse est. Est amet proident eu exercitation.\r\n",
+        "available": false,
+        "experience": "Anim minim elit cillum voluptate ipsum incididunt do incididunt. Velit qui esse sint deserunt culpa consectetur in sint occaecat sunt quis cillum. Consequat fugiat dolore est dolor excepteur excepteur velit tempor ullamco ut ad enim exercitation et. Aute consectetur ipsum non ullamco commodo mollit. Anim irure magna aute pariatur elit magna culpa labore incididunt incididunt proident.\r\n",
+        "media": [
+          {
+            "id": "5fb973cbb1cc9bdccec504d0",
+            "url": "http://lorempixel.com/400/400/business/5/",
+            "thumb": "http://lorempixel.com/200/200/business/5/",
+            "icon": "http://lorempixel.com/100/100/business/1/"
+          },
+          {
+            "id": "5fb973cb4681360c8a784a0c",
+            "url": "http://lorempixel.com/400/400/business/4/",
+            "thumb": "http://lorempixel.com/200/200/business/5/",
+            "icon": "http://lorempixel.com/100/100/business/1/"
+          },
+          {
+            "id": "5fb973cbcaacd145db9f404c",
+            "url": "http://lorempixel.com/400/400/business/5/",
+            "thumb": "http://lorempixel.com/200/200/business/4/",
+            "icon": "http://lorempixel.com/100/100/business/2/"
+          },
+          {
+            "id": "5fb973cb87b17c5c047703e7",
+            "url": "http://lorempixel.com/400/400/business/4/",
+            "thumb": "http://lorempixel.com/200/200/business/1/",
+            "icon": "http://lorempixel.com/100/100/business/4/"
+          }
+        ],
+        "name": "Daniels Cameron",
+        "phone": "+1 (978) 572-3333",
+        "address": "901 Butler Street, Carlton, Texas, 7898",
+        "rate": 3.73,
+        "reviews": [
+          {
+            "id": "5fb973cb3bffd680519cec93",
+            "rate": 4.02,
+            "review": "Commodo mollit sunt proident ut laborum amet laborum tempor. Adipisicing aute pariatur enim ad proident ea dolore. Reprehenderit id do ad culpa laborum laboris incididunt excepteur fugiat minim ea. Consequat adipisicing exercitation cillum consectetur. Ullamco adipisicing irure veniam irure velit adipisicing voluptate pariatur excepteur deserunt aute.\r\n",
+            "datetime": "2020-06-19T12:39:36 -01:00"
+          },
+          {
+            "id": "5fb973cb79388d6388c545ec",
+            "rate": 1.69,
+            "review": "Aute velit mollit nulla aliquip fugiat esse nisi laboris ullamco. Sit laboris Lorem amet et nulla adipisicing occaecat nulla nisi minim et fugiat deserunt. Amet eu esse aute ex dolore.\r\n",
+            "datetime": "2020-01-04T10:54:45 -01:00"
+          },
+          {
+            "id": "5fb973cbcfa71155abc6e017",
+            "rate": 1.93,
+            "review": "Qui excepteur dolor ullamco tempor amet pariatur dolore do. Et veniam voluptate fugiat occaecat Lorem commodo. Eiusmod do non enim quis non aute et. Qui aliqua tempor ipsum ea irure nisi do ea. Culpa mollit sunt quis consequat.\r\n",
+            "datetime": "2019-12-29T03:03:49 -01:00"
+          },
+          {
+            "id": "5fb973cbfd49afb78c89d5b8",
+            "rate": 3.07,
+            "review": "Duis aliqua aliqua incididunt adipisicing. Ad ut eiusmod aliquip excepteur dolore Lorem. Non eiusmod irure labore reprehenderit adipisicing aliqua laboris cupidatat excepteur. Quis laboris eu voluptate esse in nisi cupidatat cupidatat Lorem. Ipsum proident veniam occaecat proident consequat. Sunt est voluptate culpa nulla proident ullamco ipsum ea dolore cupidatat dolor. Aliqua dolor est quis nostrud.\r\n",
+            "datetime": "2020-04-14T05:33:52 -01:00"
+          }
+        ],
+        "total_reviews": 1592,
+        "verified": false,
+        "tasks_in_progress": 1
+      },
+      "e_company": {
+        "id": "5fb973cb474929e847542464",
+        "about": "Sit dolor anim ea nulla Lorem do ex ut deserunt velit aliqua dolor. Eiusmod culpa do esse eiusmod proident. Eiusmod labore Lorem sint irure. Consectetur nulla excepteur ex aliquip consectetur nostrud est velit nostrud labore laboris.\r\n",
+        "available": false,
+        "experience": "Irure proident ex velit nulla Lorem sit consectetur. Eiusmod incididunt voluptate minim occaecat qui anim proident do incididunt non ullamco deserunt. Nostrud reprehenderit enim est id voluptate adipisicing tempor duis. Elit reprehenderit labore cupidatat aliquip consectetur magna veniam occaecat. Non id do ipsum commodo incididunt ad magna nostrud est sunt non mollit duis. Fugiat nostrud ad fugiat mollit culpa deserunt laborum proident.\r\n",
+        "media": [
+          {
+            "url": "http://lorempixel.com/400/400/business/3/",
+            "thumb": "http://lorempixel.com/200/200/business/5/",
+            "icon": "http://lorempixel.com/100/100/business/1/"
+          },
+          {
+            "url": "http://lorempixel.com/400/400/business/2/",
+            "thumb": "http://lorempixel.com/200/200/business/2/",
+            "icon": "http://lorempixel.com/100/100/business/4/"
+          },
+          {
+            "url": "http://lorempixel.com/400/400/business/4/",
+            "thumb": "http://lorempixel.com/200/200/business/4/",
+            "icon": "http://lorempixel.com/100/100/business/3/"
+          },
+          {
+            "url": "http://lorempixel.com/400/400/business/4/",
+            "thumb": "http://lorempixel.com/200/200/business/4/",
+            "icon": "http://lorempixel.com/100/100/business/4/"
+          },
+          {
+            "url": "http://lorempixel.com/400/400/business/3/",
+            "thumb": "http://lorempixel.com/200/200/business/1/",
+            "icon": "http://lorempixel.com/100/100/business/4/"
+          }
+        ],
+        "name": "Combot",
+        "phone": "+1 (953) 598-3196",
+        "address": "114 Hart Place, Heil, Idaho, 8983",
+        "rate": 4.16,
+        "reviews": [
+          {
+            "id": "5fb973cb214c680df152b656",
+            "rate": 4.97,
+            "review": "Cupidatat ullamco excepteur anim minim et laboris Lorem magna id et. Eiusmod consequat mollit do nisi consequat minim est quis. Exercitation aute ut commodo aliquip aliquip ipsum ex voluptate eu dolore.\r\n",
+            "datetime": "2020-05-17T01:11:26 -01:00"
+          },
+          {
+            "id": "5fb973cb410c762b29f3ff02",
+            "rate": 1.93,
+            "review": "Et do culpa qui eu veniam pariatur ad exercitation mollit laboris. Laborum excepteur aliquip occaecat ullamco do ad dolore consectetur. Aute nostrud exercitation veniam id ex qui cupidatat mollit et pariatur cupidatat. Deserunt reprehenderit reprehenderit exercitation excepteur nulla consequat anim dolore laboris magna elit. In ullamco eu aliquip exercitation consectetur laborum eiusmod elit enim Lorem eu. Dolore aute exercitation mollit nulla officia dolore qui anim pariatur officia aliqua ullamco voluptate. Cupidatat et et laborum officia laborum ipsum ad laboris deserunt nisi elit minim eu ipsum.\r\n",
+            "datetime": "2019-06-15T02:13:57 -01:00"
+          }
+        ],
+        "total_reviews": 464,
+        "verified": false,
+        "tasks_in_progress": 0
+      }
+    }
+  ]
+}

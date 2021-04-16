@@ -1,0 +1,10 @@
+#Sat Apr 03 15:17:05 EEST 2021
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Volumes/Data/Flutter_apps/Mali/home_services-customer/build/app/intermediates/dex/debug/mergeDexDebug/out/classes3.dex
+base.1=/Volumes/Data/Flutter_apps/Mali/home_services-customer/build/app/intermediates/dex/debug/mergeDexDebug/out/classes2.dex
+base.0=/Volumes/Data/Flutter_apps/Mali/home_services-customer/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex

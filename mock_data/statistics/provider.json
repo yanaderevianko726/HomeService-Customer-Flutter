@@ -1,0 +1,26 @@
+{
+  "message" : "Success",
+  "data" : [
+    {
+      "id": "1",
+      "value": "15.3",
+      "description": "Total Earnings"
+    },
+    {
+      "id": "2",
+      "value": "156",
+      "description": "Total Tasks"
+    },
+    {
+      "id": "3",
+      "value": "130",
+      "description": "Total Services"
+    },
+    {
+      "id": "4",
+      "value": "4.5",
+      "description": "Rating"
+    }
+  ]
+
+}

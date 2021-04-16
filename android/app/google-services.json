@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "961455465391",
+    "firebase_url": "https://homeservice-4ef60-default-rtdb.firebaseio.com",
+    "project_id": "homeservice-4ef60",
+    "storage_bucket": "homeservice-4ef60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961455465391:android:28ded16b554da65384455a",
+        "android_client_info": {
+          "package_name": "com.barakela.household"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961455465391-vmlkmajpiblo96umm2q4hub0u4qn9vf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.barakela.household",
+            "certificate_hash": "61e2e192646bcda4242e8cc3cc72c10357ebb076"
+          }
+        },
+        {
+          "client_id": "961455465391-5o388utu13304g1rve7hi7lc5riu217u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFRBy41IbNaeOYZUltCd8ke29kjCxI4fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961455465391-5o388utu13304g1rve7hi7lc5riu217u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

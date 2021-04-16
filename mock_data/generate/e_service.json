@@ -1,0 +1,59 @@
+{
+  "id": "1",
+  "title": "Full Service Lawn Care",
+  "min_price": 50.00,
+  "max_price": 150.00,
+  "pricing": "fixed / per hour",
+  "rate": 4.1,
+  "total_reviews": 50,
+  "duration": 30.00,
+  "categories" : [],
+  "sub_categories" : [],
+  "image": "http://lorempixel.com/200/200/business/2/",
+  "e_provider": {
+    "about": "",
+    "available": true,
+    "experience": "",
+    "media": [
+      {
+        "url": ""
+      }
+    ],
+    "name": "",
+    "phone": "",
+    "rate": 4.1,
+    "reviews": [
+      {
+        "rate": 4.1,
+        "review": "",
+        "datetime": ""
+      }
+    ],
+    "total_reviews": 50,
+    "verified": true,
+    "tasks_in_progress": 1
+  },
+  "e_company": {
+    "about": "",
+    "available": true,
+    "experience": "",
+    "media": [
+      {
+        "url": ""
+      }
+    ],
+    "name": "",
+    "phone": "",
+    "rate": 4.1,
+    "reviews": [
+      {
+        "rate": 4.1,
+        "review": "",
+        "datetime": ""
+      }
+    ],
+    "total_reviews": 50,
+    "verified": true,
+    "tasks_in_progress": 1
+  }
+}

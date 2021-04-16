@@ -1,0 +1,15 @@
+
+    {
+      "id" :  "1",
+      "name" : "Name",
+      "email" :  "smartersvision@gmail.com",
+      "password" : "123456",
+      "apiToken" :  "fsdfzer",
+      "deviceToken" : "sdfsdf",
+      "phone" :  "",
+      "verifiedPhone" : true,
+      "verificationId" :  "",
+      "address" : "",
+      "bio" :  "",
+      "image" : ""
+    }

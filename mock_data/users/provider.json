@@ -1,0 +1,25 @@
+{
+  "message": "Success",
+  "data":
+  {
+    "id": "5fba3ad5cd3daa820cbc61d4",
+    "name": "Lynn Potts",
+    "email": "whiteheaddiaz@senmei.com",
+    "password": "123456",
+    "apiToken": "5fba3ad563e6ec105bfd4849",
+    "deviceToken": "5fba3ad57e032e5505fba7d0",
+    "phone": "+1 (916) 478-3678",
+    "verifiedPhone": true,
+    "verificationId": "5fba3ad5097f28101b6f1d03",
+    "address": "889 Falmouth Street, Jackpot, Delaware, 7201",
+    "bio": "Consequat ullamco minim do aute consectetur sunt labore nostrud consectetur aute proident fugiat anim officia. Sint ea fugiat tempor eiusmod aute id fugiat fugiat quis irure magna velit. Elit non fugiat eu excepteur labore eu ex non nostrud ea sunt in anim tempor.\r\n",
+    "media": [
+      {
+        "id": "5fba3ad59bc9b46f0d520544",
+        "url": "http://lorempixel.com/400/400/business/2/",
+        "thumb": "http://lorempixel.com/200/200/business/1/",
+        "icon": "http://lorempixel.comm/100/100/business/2/"
+      }
+    ]
+  }
+}

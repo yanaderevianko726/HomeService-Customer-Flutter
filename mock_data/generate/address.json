@@ -1,0 +1,9 @@
+{
+  "id": "1",
+  "description": "Home",
+  "address": "29 Street of NY, New York City, USA",
+  "latitude": 137.3556,
+  "longitude": 29.3256,
+  "isDefault": true,
+  "userId": "1"
+}
